@@ -108,4 +108,4 @@ The software can run on Windows 10 (64-bit) systems without requiring a full MAT
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). It also serves as the final coursework for MATLAB Course at School of Mathematics and Statistics, Henan University.
+This project is licensed under the [MIT License](LICENSE). It also serves as my final coursework for MATLAB Course at School of Mathematics and Statistics, Henan University.
